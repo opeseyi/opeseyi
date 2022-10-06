@@ -71,6 +71,9 @@
 <a href="https://github.com/opeseyi/nft-marketplace-contact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=opeseyi&repo=nft-marketplace-contact&hide_border=true&theme=radical" />
 </a>
+<a href="https://github.com/opeseyi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=opeseyi&repo=opeseyi&hide_border=true&theme=radical" />
+</a>
 </p>
 
 ![Matthew GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=opeseyi&hide_border=true&theme=redical)
